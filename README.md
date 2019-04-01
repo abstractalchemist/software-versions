@@ -19,7 +19,7 @@
 - Is there support for providing security-related fixes or a history of security fixes? yes
 - Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
 - Are there known security weaknesses associated with this software? 
-- Vendor name: Pivotal Software
+- Vendor name: Pivotal Software ( https://pivotal.io )
 - Vendor address: 875 Howard Street, San Francisco, CA 94103
 - Technical POC name: 
 - Technical POC organization: 
@@ -49,7 +49,7 @@
 - Is there support for providing security-related fixes or a history of security fixes? Yes
 - Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
 - Are there known security weaknesses associated with this software?
-- Vendor name: Ericcson, Various
+- Vendor name: Ericcson ( https://www.ericsson.com/en ) , Various 
 - Vendor address: 6300 Legacy Drive Plano, TX 75024
 - Technical POC name: 
 - Technical POC organization:
@@ -79,7 +79,7 @@
 - Is there support for providing security-related fixes or a history of security fixes? Yes
 - Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
 - Are there known security weaknesses associated with this software?
-- Vendor name: Various ( Open Source ) Joyent ( Enterprise Support ) 
+- Vendor name: Various ( Open Source ) Joyent ( Enterprise Support, https://www.joyent.com/ ) 
 - Vendor address: 
 - Technical POC name:
 - Technical POC organization:
@@ -139,7 +139,7 @@
 - Is there support for providing security-related fixes or a history of security fixes? Yes
 - Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
 - Are there known security weaknesses associated with this software?
-- Vendor name: Redis Labs
+- Vendor name: Redis Labs ( https://redislabs.com/ )
 - Vendor address: 700 E El Camino Real Suite 250, Mountain View, CA 94040
 - Technical POC name:
 - Technical POC organization:
