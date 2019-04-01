@@ -15,10 +15,10 @@
 - Is current or previous version of software on an APL/EPL? No
 - If yes, where?
 - If yes, what version?
-- If software has been through Security Vulnerability evaluation list the testing, tools used: No
+- If software has been through Security Vulnerability evaluation list the testing, tools used: None
 - Is there support for providing security-related fixes or a history of security fixes? yes
 - Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
-- Are there known security weaknesses associated with this software? 
+- Are there known security weaknesses associated with this software? No
 - Vendor name: Pivotal Software ( https://pivotal.io )
 - Vendor address: 875 Howard Street, San Francisco, CA 94103
 - Technical POC name: 
@@ -45,10 +45,10 @@
 - Is current or previous version of software on an APL/EPL? No
 - If yes, where?
 - If yes, what version?
-- If software has been through Security Vulnerability evaluation list the testing, tools used: No
+- If software has been through Security Vulnerability evaluation list the testing, tools used: None
 - Is there support for providing security-related fixes or a history of security fixes? Yes
 - Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
-- Are there known security weaknesses associated with this software?
+- Are there known security weaknesses associated with this software? No
 - Vendor name: Ericcson ( https://www.ericsson.com/en ) , Various 
 - Vendor address: 6300 Legacy Drive Plano, TX 75024
 - Technical POC name: 
@@ -75,10 +75,10 @@
 - Is current or previous version of software on an APL/EPL? No
 - If yes, where?
 - If yes, what version?
-- If software has been through Security Vulnerability evaluation list the testing, tools used: 
+- If software has been through Security Vulnerability evaluation list the testing, tools used: None
 - Is there support for providing security-related fixes or a history of security fixes? Yes
 - Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
-- Are there known security weaknesses associated with this software?
+- Are there known security weaknesses associated with this software? No
 - Vendor name: Various ( Open Source ) Joyent ( Enterprise Support, https://www.joyent.com/ ) 
 - Vendor address: 
 - Technical POC name:
@@ -105,10 +105,10 @@
 - Is current or previous version of software on an APL/EPL? No
 - If yes, where?
 - If yes, what version?
-- If software has been through Security Vulnerability evaluation list the testing, tools used:
+- If software has been through Security Vulnerability evaluation list the testing, tools used: None
 - Is there support for providing security-related fixes or a history of security fixes? Yes
 - Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
-- Are there known security weaknesses associated with this software?
+- Are there known security weaknesses associated with this software? No
 - Vendor name: Various
 - Vendor address:
 - Technical POC name: Michael Bridgen
@@ -135,10 +135,10 @@
 - Is current or previous version of software on an APL/EPL? No
 - If yes, where?
 - If yes, what version?
-- If software has been through Security Vulnerability evaluation list the testing, tools used:
+- If software has been through Security Vulnerability evaluation list the testing, tools used: None
 - Is there support for providing security-related fixes or a history of security fixes? Yes
 - Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
-- Are there known security weaknesses associated with this software?
+- Are there known security weaknesses associated with this software? No
 - Vendor name: Redis Labs ( https://redislabs.com/ )
 - Vendor address: 700 E El Camino Real Suite 250, Mountain View, CA 94040
 - Technical POC name:
