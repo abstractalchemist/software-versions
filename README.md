@@ -1,57 +1,57 @@
 # Software Versions
 ## RabbitMQ
 
-- Software Name:
-- Classification:
-- Software Version:
-- Package Type (COTS, GOTS or Unknown):
-- Supported ISR Mission System:
-- Functionality/Purpose (paragraph):
+- Software Name: RabbitMQ
+- Classification: Public
+- Software Version: 3.7.14
+- Package Type (COTS, GOTS or Unknown): COTS
+- Supported ISR Mission System: MISS/Madlet
+- Functionality/Purpose (paragraph): 
 - Justification/Mission Impact (paragraph):
-- Operating System:
-- Country of Origin:
-- Open Source?
-- Type Software (Freeware, Shareware, Demoware, Trialware, Other):
-- Is current or previous version of software on an APL/EPL?
+- Operating System: Linux
+- Country of Origin: US
+- Open Source? Yes
+- Type Software (Freeware, Shareware, Demoware, Trialware, Other): Freeware
+- Is current or previous version of software on an APL/EPL? No
 - If yes, where?
 - If yes, what version?
-- If software has been through Security Vulnerability evaluation list the testing, tools used:
-- Is there support for providing security-related fixes or a history of security fixes?
-- Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t?
-- Are there known security weaknesses associated with this software?
-- Vendor name:
-- Vendor address:
-- Technical POC name:
-- Technical POC organization:
-- Technical POC phone:
-- Technical POC email:
+- If software has been through Security Vulnerability evaluation list the testing, tools used: No
+- Is there support for providing security-related fixes or a history of security fixes? yes
+- Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
+- Are there known security weaknesses associated with this software? 
+- Vendor name: Pivotal Software
+- Vendor address: 875 Howard Street, San Francisco, CA 94103
+- Technical POC name: 
+- Technical POC organization: 
+- Technical POC phone: 
+- Technical POC email: 
 - Notes:
 - Tracking/Shipping Number:
 - Others to Notify:
 
 ## Erlang 
 
-- Software Name:
-- Classification:
-- Software Version:
-- Package Type (COTS, GOTS or Unknown):
-- Supported ISR Mission System:
+- Software Name: Erlang
+- Classification: Public
+- Software Version: 20.3
+- Package Type (COTS, GOTS or Unknown): COTS
+- Supported ISR Mission System: MISS/Madlet
 - Functionality/Purpose (paragraph):
 - Justification/Mission Impact (paragraph):
-- Operating System:
-- Country of Origin:
-- Open Source?
-- Type Software (Freeware, Shareware, Demoware, Trialware, Other):
-- Is current or previous version of software on an APL/EPL?
+- Operating System: Linux
+- Country of Origin: Europe
+- Open Source? Yes
+- Type Software (Freeware, Shareware, Demoware, Trialware, Other): Freeware
+- Is current or previous version of software on an APL/EPL? No
 - If yes, where?
 - If yes, what version?
-- If software has been through Security Vulnerability evaluation list the testing, tools used:
-- Is there support for providing security-related fixes or a history of security fixes?
-- Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t?
+- If software has been through Security Vulnerability evaluation list the testing, tools used: No
+- Is there support for providing security-related fixes or a history of security fixes? Yes
+- Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
 - Are there known security weaknesses associated with this software?
-- Vendor name:
-- Vendor address:
-- Technical POC name:
+- Vendor name: Ericcson, Various
+- Vendor address: 6300 Legacy Drive Plano, TX 75024
+- Technical POC name: 
 - Technical POC organization:
 - Technical POC phone:
 - Technical POC email:
@@ -61,26 +61,26 @@
 
 ## NodeJS
 
-- Software Name:
-- Classification:
-- Software Version:
-- Package Type (COTS, GOTS or Unknown):
-- Supported ISR Mission System:
-- Functionality/Purpose (paragraph):
+- Software Name: NodeJS
+- Classification: Public
+- Software Version: 11.13.0
+- Package Type (COTS, GOTS or Unknown): COTS
+- Supported ISR Mission System: MISS/Madlet
+- Functionality/Purpose (paragraph): 
 - Justification/Mission Impact (paragraph):
-- Operating System:
-- Country of Origin:
-- Open Source?
-- Type Software (Freeware, Shareware, Demoware, Trialware, Other):
-- Is current or previous version of software on an APL/EPL?
+- Operating System: Linux
+- Country of Origin: US
+- Open Source? Yes
+- Type Software (Freeware, Shareware, Demoware, Trialware, Other): Freeware
+- Is current or previous version of software on an APL/EPL? No
 - If yes, where?
 - If yes, what version?
-- If software has been through Security Vulnerability evaluation list the testing, tools used:
-- Is there support for providing security-related fixes or a history of security fixes?
-- Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t?
+- If software has been through Security Vulnerability evaluation list the testing, tools used: 
+- Is there support for providing security-related fixes or a history of security fixes? Yes
+- Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
 - Are there known security weaknesses associated with this software?
-- Vendor name:
-- Vendor address:
+- Vendor name: Various ( Open Source ) Joyent ( Enterprise Support ) 
+- Vendor address: 
 - Technical POC name:
 - Technical POC organization:
 - Technical POC phone:
@@ -91,26 +91,56 @@
 
 ## Amqplib
 
-- Software Name:
-- Classification:
-- Software Version:
-- Package Type (COTS, GOTS or Unknown):
-- Supported ISR Mission System:
+- Software Name: Amqplib
+- Classification: Public
+- Software Version: 0.5.3
+- Package Type (COTS, GOTS or Unknown): COTS
+- Supported ISR Mission System: MISS/Madlet
 - Functionality/Purpose (paragraph):
 - Justification/Mission Impact (paragraph):
-- Operating System:
-- Country of Origin:
-- Open Source?
-- Type Software (Freeware, Shareware, Demoware, Trialware, Other):
-- Is current or previous version of software on an APL/EPL?
+- Operating System: Linux
+- Country of Origin: US
+- Open Source? Yes
+- Type Software (Freeware, Shareware, Demoware, Trialware, Other): Freeware
+- Is current or previous version of software on an APL/EPL? No
 - If yes, where?
 - If yes, what version?
 - If software has been through Security Vulnerability evaluation list the testing, tools used:
-- Is there support for providing security-related fixes or a history of security fixes?
-- Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t?
+- Is there support for providing security-related fixes or a history of security fixes? Yes
+- Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
 - Are there known security weaknesses associated with this software?
-- Vendor name:
+- Vendor name: Various
 - Vendor address:
+- Technical POC name: Michael Bridgen
+- Technical POC organization:
+- Technical POC phone:
+- Technical POC email:
+- Notes:
+- Tracking/Shipping Number:
+- Others to Notify:
+
+## Redis
+
+- Software Name: Redis
+- Classification: Public
+- Software Version: 5.0.4
+- Package Type (COTS, GOTS or Unknown): COTS
+- Supported ISR Mission System: MISS/Madlet
+- Functionality/Purpose (paragraph):
+- Justification/Mission Impact (paragraph):
+- Operating System: Linux
+- Country of Origin: US
+- Open Source? Yes
+- Type Software (Freeware, Shareware, Demoware, Trialware, Other): Freeware
+- Is current or previous version of software on an APL/EPL? No
+- If yes, where?
+- If yes, what version?
+- If software has been through Security Vulnerability evaluation list the testing, tools used:
+- Is there support for providing security-related fixes or a history of security fixes? Yes
+- Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
+- Are there known security weaknesses associated with this software?
+- Vendor name: Redis Labs
+- Vendor address: 700 E El Camino Real Suite 250, Mountain View, CA 94040
 - Technical POC name:
 - Technical POC organization:
 - Technical POC phone:
@@ -118,3 +148,125 @@
 - Notes:
 - Tracking/Shipping Number:
 - Others to Notify:
+
+## S4 Client
+
+- Software Name: S4 Client
+- Classification: 
+- Software Version: 1.0.0.0
+- Package Type (COTS, GOTS or Unknown): Software
+- Supported ISR Mission System: MISS/Madlet
+- Functionality/Purpose (paragraph):
+- Justification/Mission Impact (paragraph):
+- Operating System: Linux
+- Country of Origin: US
+- Open Source? No
+- Type Software (Freeware, Shareware, Demoware, Trialware, Other): 
+- Is current or previous version of software on an APL/EPL? No
+- If yes, where?
+- If yes, what version?
+- If software has been through Security Vulnerability evaluation list the testing, tools used:
+- Is there support for providing security-related fixes or a history of security fixes? Yes
+- Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
+- Are there known security weaknesses associated with this software?
+- Vendor name: Pacific Defense Solutions
+- Vendor address: 535 Lipoa Pkwy #101, Kihei, HI 96753
+- Technical POC name: Jason Hirata
+- Technical POC organization: Pacific Defense Solutions
+- Technical POC phone: 808-330-0364
+- Technical POC email: jhirata@integrity-apps.com
+- Notes:
+- Tracking/Shipping Number:
+- Others to Notify:
+
+## HTTP Api
+
+- Software Name: HTTP Api
+- Classification: 
+- Software Version: 1.0.0.0
+- Package Type (COTS, GOTS or Unknown): Software
+- Supported ISR Mission System: MISS/Madlet
+- Functionality/Purpose (paragraph):
+- Justification/Mission Impact (paragraph):
+- Operating System: Linux
+- Country of Origin: US
+- Open Source? No
+- Type Software (Freeware, Shareware, Demoware, Trialware, Other): 
+- Is current or previous version of software on an APL/EPL? No
+- If yes, where?
+- If yes, what version?
+- If software has been through Security Vulnerability evaluation list the testing, tools used:
+- Is there support for providing security-related fixes or a history of security fixes? Yes
+- Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
+- Are there known security weaknesses associated with this software?
+- Vendor name: Pacific Defense Solutions
+- Vendor address: 535 Lipoa Pkwy #101, Kihei, HI 96753
+- Technical POC name: Jason Hirata
+- Technical POC organization: Pacific Defense Solutions
+- Technical POC phone: 808-330-0364
+- Technical POC email: jhirata@integrity-apps.com
+- Notes:
+- Tracking/Shipping Number:
+- Others to Notify:
+
+## Tensorflow API
+
+- Software Name: Tensorflow API
+- Classification: 
+- Software Version: 1.0.0.0
+- Package Type (COTS, GOTS or Unknown): Software
+- Supported ISR Mission System: MISS/Madlet
+- Functionality/Purpose (paragraph):
+- Justification/Mission Impact (paragraph):
+- Operating System: Linux
+- Country of Origin: US
+- Open Source? No
+- Type Software (Freeware, Shareware, Demoware, Trialware, Other): 
+- Is current or previous version of software on an APL/EPL? No
+- If yes, where?
+- If yes, what version?
+- If software has been through Security Vulnerability evaluation list the testing, tools used:
+- Is there support for providing security-related fixes or a history of security fixes? Yes
+- Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
+- Are there known security weaknesses associated with this software?
+- Vendor name: Pacific Defense Solutions
+- Vendor address: 535 Lipoa Pkwy #101, Kihei, HI 96753
+- Technical POC name: Jason Hirata
+- Technical POC organization: Pacific Defense Solutions
+- Technical POC phone: 808-330-0364
+- Technical POC email: jhirata@integrity-apps.com
+- Notes:
+- Tracking/Shipping Number:
+- Others to Notify:
+
+## SatNet Results Server
+
+- Software Name: SatNet Results Server
+- Classification: 
+- Software Version: 1.0.0.0
+- Package Type (COTS, GOTS or Unknown): Software
+- Supported ISR Mission System: MISS/Madlet
+- Functionality/Purpose (paragraph):
+- Justification/Mission Impact (paragraph):
+- Operating System: Linux
+- Country of Origin: US
+- Open Source? No
+- Type Software (Freeware, Shareware, Demoware, Trialware, Other): 
+- Is current or previous version of software on an APL/EPL? No
+- If yes, where?
+- If yes, what version?
+- If software has been through Security Vulnerability evaluation list the testing, tools used:
+- Is there support for providing security-related fixes or a history of security fixes? Yes
+- Has the application undergone and been approved for use through an A&A process within the DoD or US federal gov’t? No
+- Are there known security weaknesses associated with this software?
+- Vendor name: Pacific Defense Solutions
+- Vendor address: 535 Lipoa Pkwy #101, Kihei, HI 96753
+- Technical POC name: Jason Hirata
+- Technical POC organization: Pacific Defense Solutions
+- Technical POC phone: 808-330-0364
+- Technical POC email: jhirata@integrity-apps.com
+- Notes:
+- Tracking/Shipping Number:
+- Others to Notify:
+
+
